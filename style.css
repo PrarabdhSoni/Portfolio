@@ -1,6 +1,8 @@
 html{background: rgb(215, 221, 248)
     ;}
-h1{color: rgb(83, 83, 166)
-   ;}
+h1{color: rgb(83, 83, 166); text-align: center
+  ;}
 h2{color: rgb(168, 88, 168)
+   ;}
+img{ align: center 
    ;}
